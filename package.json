@@ -1,0 +1,10 @@
+{
+  "name": "StudentJuice",
+  "version": "0.1.0",
+  "description": "StudentJuiceBot",
+  "main": "bot.js",
+  "repository": "https://github.com/Euromance/StudentJuice",
+  "author": "Euromancer",
+  "license": "Unlicense",
+  "private": true
+}
