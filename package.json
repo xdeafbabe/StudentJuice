@@ -1,19 +1,19 @@
 {
-    "name": "StudentJuice",
-    "version": "0.1.0",
-    "description": "",
-    "main": "index.js",
-    "repository": "https://github.com/Euromance/StudentJuice",
-    "author": "Euromancer <euromancer@icloud.com>",
-    "license": "Unlicense",
-    "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "^5.1.0",
-        "@typescript-eslint/parser": "^5.1.0",
-        "eslint": "^8.0.0",
-        "typescript": "^4.4.4"
-    },
-    "scripts": {
-        "build": "tsc",
-        "lint": "eslint ./src --ext .ts"
-    }
+  "name": "StudentJuice",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/Euromance/StudentJuice",
+  "author": "Euromancer <euromancer@icloud.com>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.1.0",
+    "@typescript-eslint/parser": "^5.1.0",
+    "eslint": "^8.0.0",
+    "typescript": "^4.4.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ./src --ext .ts"
+  }
 }
